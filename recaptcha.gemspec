@@ -1,7 +1,7 @@
 require "./lib/recaptcha/version"
 
 Gem::Specification.new do |s|
-  s.name        = "recaptcha"
+  s.name        = "recaptchamod"
   s.version     = Recaptcha::VERSION
   s.authors     = ["Jason L Perry"]
   s.email       = ["jasper@ambethia.com"]
